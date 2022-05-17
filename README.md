@@ -1,6 +1,6 @@
 # Strange-Fuels-Mod
-此地址仅为源代码网站，模组的下载请前往mcmod.cn
-This address is only the source code website. For mod download, please go to mcmod.cn.
+此地址仅为源代码网站，模组的下载请前往http://mcmod.cn
+This address is only the source code website. For mod download, please go to http://mcmod.cn.
 
 如果源代码出现错误，请发给这个邮箱：xcxiaocang@outlook.com
 If there is an error in the source code, please send it to this email:xcxiaocang@outlook.com.
