@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "zhushijiecandy",
+    "customModelName": "Normal",
+    "name": "主世界维度传送糖果",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.1,
+    "eatingSpeed": 40,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "ZhushijietangguoFoodEaten"
+    }
+  }
+}

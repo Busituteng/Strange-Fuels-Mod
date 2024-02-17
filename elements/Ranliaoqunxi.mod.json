@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "FuelsBiome",
+    "groundBlock": {
+      "value": "Blocks.COAL_ORE"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Mega pine trees",
+    "minHeight": 20,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "treeBranch": {
+      "value": "Blocks.COAL_ORE"
+    },
+    "treeFruits": {
+      "value": "CUSTOM:Ranliaohexinkuangshi"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.2,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 15,
+    "biomeType": "COOL",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySkeletonHorse"
+      }
+    ]
+  }
+}

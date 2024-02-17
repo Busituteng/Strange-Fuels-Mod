@@ -1,0 +1,45 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 15
+    },
+    "2": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "4": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "6": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "7": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "8": {
+      "item": "strangefuelsmod:fabric"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:reimusbfhelmet",
+    "count": 1
+  }
+}

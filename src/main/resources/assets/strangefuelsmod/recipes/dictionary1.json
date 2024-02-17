@@ -1,0 +1,35 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 4
+    },
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 4
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:dictionary",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/barrageore",
+    "up": "strangefuelsmod:blocks/barrageore",
+    "north": "strangefuelsmod:blocks/barrageore",
+    "east": "strangefuelsmod:blocks/barrageore",
+    "south": "strangefuelsmod:blocks/barrageore",
+    "west": "strangefuelsmod:blocks/barrageore",
+    "particle": "strangefuelsmod:blocks/barrageore"
+  }
+}

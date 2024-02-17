@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "strangefuelsmod",
+    "name": "StrangeFuelsMod",
+    "description": "A Strange Advenrure Mod About Mountains Of Strange Fuels.",
+    "version": "3.6",
+    "credits": "BT,MCR",
+    "logoFile": "assets/strangefuelsmod/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.mcmod.cn/class/6089.html",
+    "updateUrl": "https://www.mcmod.cn/download/6089.html",
+    "authorList": [
+      "BT"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

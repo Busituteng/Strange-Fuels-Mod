@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubysword",
+    "customModelName": "Normal",
+    "name": "ºì±¦Ê¯½£",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 2.0,
+    "enchantability": 8,
+    "damageVsEntity": 20.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ]
+  }
+}

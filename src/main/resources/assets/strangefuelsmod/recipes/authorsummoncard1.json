@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:moongem"
+    },
+    "1": {
+      "item": "strangefuelsmod:starfuel"
+    },
+    "2": {
+      "item": "strangefuelsmod:moongem"
+    },
+    "3": {
+      "item": "strangefuelsmod:moongem"
+    },
+    "4": {
+      "item": "strangefuelsmod:tebstt"
+    },
+    "5": {
+      "item": "strangefuelsmod:moongem"
+    },
+    "6": {
+      "item": "strangefuelsmod:moongem"
+    },
+    "7": {
+      "item": "strangefuelsmod:starfuel"
+    },
+    "8": {
+      "item": "strangefuelsmod:moongem"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:authorsummoncard",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "dictionary",
+    "customModelName": "Normal",
+    "name": "作者跟她表哥借的词典",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "一本普通的现代汉语♂词典♀"
+    ],
+    "hasGlow": true,
+    "onRightClickedOnBlock": {
+      "name": "DictionaryRightClickedOnBlock"
+    }
+  }
+}

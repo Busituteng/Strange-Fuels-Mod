@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ranliao_pickaxe",
+    "customModelName": "Normal",
+    "name": "»º¡œ∏‰",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 6,
+    "efficiency": 7.0,
+    "attackSpeed": 1.2,
+    "enchantability": 6,
+    "damageVsEntity": 7.0,
+    "usageCount": 1640,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ranliaobaoshi"
+      },
+      {
+        "value": "CUSTOM:Ranliaohexin"
+      }
+    ]
+  }
+}

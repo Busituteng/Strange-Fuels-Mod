@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "up": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "north": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "east": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "south": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "west": "strangefuelsmod:blocks/ranliaohexinkuangshi",
+    "particle": "strangefuelsmod:blocks/ranliaohexinkuangshi"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "gem",
+    "customModelName": "Normal",
+    "name": "药水宝石（基础）",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 16,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "合成便携式药水宝石的重要材料"
+    ],
+    "hasGlow": false
+  }
+}

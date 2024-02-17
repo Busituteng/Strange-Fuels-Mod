@@ -1,0 +1,13 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:powerstoneblock"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:powerstone",
+    "count": 9
+  }
+}

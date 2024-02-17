@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ruby_helmet",
+    "enableBody": true,
+    "textureBody": "ruby_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "ruby_leggings",
+    "enableBoots": true,
+    "textureBoots": "ruby_boots",
+    "onBodyTick": {
+      "name": "RubyarmorBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "armorTextureFile": "ruby_",
+    "helmetName": "ºì±¦Ê¯Í·¿ø",
+    "bodyName": "ºì±¦Ê¯ÐØ¼×",
+    "leggingsName": "ºì±¦Ê¯»¤ÍÈ",
+    "bootsName": "ºì±¦Ê¯Ñ¥×Ó",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 80,
+    "damageValueHelmet": 20,
+    "damageValueBody": 20,
+    "damageValueLeggings": 20,
+    "damageValueBoots": 20,
+    "enchantability": 30,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "entity.armorstand.hit"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ]
+  }
+}

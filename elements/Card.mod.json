@@ -1,0 +1,92 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Author Summon Card",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Author Summon Card",
+          "x": 334,
+          "y": 117
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Lovely Author",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Lovely Author",
+          "x": 259,
+          "y": 266
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Evil Author",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Evil Author",
+          "x": 461,
+          "y": 268
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Summon",
+          "onClick": {
+            "name": "Author1"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Summon",
+          "x": 260,
+          "y": 306
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Summon",
+          "onClick": {
+            "name": "Evilauthor1"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Summon",
+          "x": 458,
+          "y": 305
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "The Final Boss",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "The Final Boss",
+          "x": 444,
+          "y": 229
+        }
+      }
+    ]
+  }
+}

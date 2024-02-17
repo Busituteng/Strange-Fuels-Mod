@@ -1,0 +1,36 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "1": {
+      "item": "strangefuelsmod:halfsoul"
+    },
+    "3": {
+      "item": "strangefuelsmod:halfsoul"
+    },
+    "4": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "5": {
+      "item": "strangefuelsmod:halfsoul"
+    },
+    "7": {
+      "item": "strangefuelsmod:halfsoul"
+    },
+    "8": {
+      "item": "strangefuelsmod:powerstone"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:uuz",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "1": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "2": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "3": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "4": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "5": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "6": {
+      "item": "minecraft:paper"
+    },
+    "7": {
+      "item": "strangefuelsmod:medicinepowder"
+    },
+    "8": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:scp500",
+    "count": 1
+  }
+}

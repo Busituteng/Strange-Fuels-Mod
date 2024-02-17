@@ -1,0 +1,17 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:jiu"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:meifen",
+    "count": 2
+  }
+}

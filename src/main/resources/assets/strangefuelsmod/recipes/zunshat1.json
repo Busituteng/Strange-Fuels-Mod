@@ -1,0 +1,45 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "1": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "2": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "3": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "4": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "5": {
+      "item": "strangefuelsmod:fabric"
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 9
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:zunshathelmet",
+    "count": 1
+  }
+}

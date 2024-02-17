@@ -1,0 +1,37 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhikuai"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:starfuel",
+    "count": 1
+  }
+}

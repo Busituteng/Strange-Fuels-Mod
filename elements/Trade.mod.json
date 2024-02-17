@@ -1,0 +1,254 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 307,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "¡Á32",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "¡Á32",
+          "x": 279,
+          "y": 93
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rainbowbarrage.png",
+          "name": "rainbowbarrage.png",
+          "x": 328,
+          "y": 87
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "¡Á128",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "¡Á128",
+          "x": 391,
+          "y": 93
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 430,
+          "y": 101
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fu1.png",
+          "name": "fu1.png",
+          "x": 455,
+          "y": 95
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Trade",
+          "onClick": {
+            "name": "Trade1"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "Trade",
+          "x": 261,
+          "y": 112
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "tRade",
+          "onClick": {
+            "name": "Trade2"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "tRade",
+          "x": 374,
+          "y": 112
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "yiwanyuan.png",
+          "name": "yiwanyuan.png",
+          "x": 261,
+          "y": 90
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "yiwanyuan.png",
+          "name": "yiwanyuan.png",
+          "x": 374,
+          "y": 90
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "yiwanyuan.png",
+          "name": "yiwanyuan.png",
+          "x": 260,
+          "y": 174
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "¡Á300",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "¡Á300",
+          "x": 273,
+          "y": 175
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 311,
+          "y": 179
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fu2.png",
+          "name": "fu2.png",
+          "x": 330,
+          "y": 179
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "trAde",
+          "onClick": {
+            "name": "Trade3"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "trAde",
+          "x": 260,
+          "y": 192
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Reimu's",
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "name": "Reimu's",
+          "x": 498,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Shop",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Shop",
+          "x": 509,
+          "y": 167
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "yiwanyuan.png",
+          "name": "yiwanyuan.png",
+          "x": 375,
+          "y": 175
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "¡Á512",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "¡Á512",
+          "x": 392,
+          "y": 171
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "name": "arrow.png",
+          "x": 431,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "remuspants.png",
+          "name": "remuspants.png",
+          "x": 456,
+          "y": 173
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "traDe",
+          "onClick": {
+            "name": "Trade4"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "traDe",
+          "x": 375,
+          "y": 193
+        }
+      }
+    ]
+  }
+}

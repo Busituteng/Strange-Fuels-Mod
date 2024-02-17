@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gaojimeitan"
+      },
+      {
+        "value": "CUSTOM:Gaojimeitan"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gaojimeitan"
+      },
+      {
+        "value": "CUSTOM:Gaojimeitan"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Yasuogaojimeitan"
+    },
+    "name": "yasuogaojimeitan2",
+    "namespace": "mod"
+  }
+}

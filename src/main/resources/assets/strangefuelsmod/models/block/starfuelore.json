@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/starfuelore",
+    "up": "strangefuelsmod:blocks/starfuelore",
+    "north": "strangefuelsmod:blocks/starfuelore",
+    "east": "strangefuelsmod:blocks/starfuelore",
+    "south": "strangefuelsmod:blocks/starfuelore",
+    "west": "strangefuelsmod:blocks/starfuelore",
+    "particle": "strangefuelsmod:blocks/starfuelore"
+  }
+}

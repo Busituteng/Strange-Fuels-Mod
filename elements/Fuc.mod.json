@@ -1,0 +1,35 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "fu1",
+    "customModelName": "Normal",
+    "name": "ë‘·û¡¸‰ôÏë·âÓ¡¡¹",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 64,
+    "actionSound": {
+      "value": "entity.snowball.throw"
+    },
+    "hasGlow": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.2000000000000002,
+    "bulletDamage": 13.0,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Rainbowbarrage"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

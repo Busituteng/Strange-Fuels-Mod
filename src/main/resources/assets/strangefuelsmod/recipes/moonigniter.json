@@ -1,0 +1,30 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "3": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "4": {
+      "item": "strangefuelsmod:powerstoneblock"
+    },
+    "5": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "7": {
+      "item": "strangefuelsmod:gensokyogem"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:moon",
+    "count": 1
+  }
+}

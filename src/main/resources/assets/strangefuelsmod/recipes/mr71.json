@@ -1,0 +1,25 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "strangefuelsmod:powerstone"
+    },
+    {
+      "item": "strangefuelsmod:ng7"
+    },
+    {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:mr7",
+    "count": 1
+  }
+}

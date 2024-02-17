@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "murakumo",
+    "customModelName": "Normal",
+    "name": "ÃÏ¥‘‘∆Ω£",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 16,
+    "efficiency": 21.0,
+    "attackSpeed": 1.6,
+    "enchantability": 20,
+    "damageVsEntity": 114.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Moongem"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "MoonmanRightClickedOnBlock"
+    }
+  }
+}

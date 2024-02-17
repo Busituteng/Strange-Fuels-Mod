@@ -1,0 +1,31 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "strangefuelsmod:nine"
+    },
+    "3": {
+      "item": "strangefuelsmod:nine"
+    },
+    "4": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "5": {
+      "item": "strangefuelsmod:nine"
+    },
+    "7": {
+      "item": "strangefuelsmod:nine"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:ninethfuel",
+    "count": 1
+  }
+}

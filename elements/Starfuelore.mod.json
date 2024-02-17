@@ -1,0 +1,103 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "starfuelore",
+    "textureTop": "starfuelore",
+    "textureLeft": "starfuelore",
+    "textureFront": "starfuelore",
+    "textureRight": "starfuelore",
+    "textureBack": "starfuelore",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "星之燃料矿石",
+    "specialInfo": [
+      "美丽的星之燃料矿石"
+    ],
+    "hardness": 2.35,
+    "resistance": 10.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "CUSTOM:Starfuel"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 4,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Moon"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Moonbiome"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:Moonturf"
+      },
+      {
+        "value": "CUSTOM:Moonrock"
+      }
+    ],
+    "frequencyPerChunks": 12,
+    "frequencyOnChunk": 4,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 32
+  }
+}

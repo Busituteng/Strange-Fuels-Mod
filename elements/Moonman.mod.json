@@ -1,0 +1,109 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "‘¬«Ú»À",
+    "mobLabel": "",
+    "mobModelTexture": "moonman.png",
+    "mobModelName": "Biped",
+    "modelWidth": 0.6,
+    "modelHeight": 1.8,
+    "modelShadowSize": 0.5,
+    "armorBaseValue": 1.5,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -16750849,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": "CUSTOM:Roukanken"
+    },
+    "equipmentOffHand": {
+      "value": "Items.SHIELD"
+    },
+    "equipmentHelmet": {
+      "value": "CUSTOM:Rubyarmor.helmet"
+    },
+    "equipmentBody": {
+      "value": "CUSTOM:Rubyarmor.body"
+    },
+    "equipmentLeggings": {
+      "value": "CUSTOM:Rubyarmor.legs"
+    },
+    "equipmentBoots": {
+      "value": "CUSTOM:Rubyarmor.boots"
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEAD",
+    "attackStrength": 18,
+    "movementSpeed": 0.30000000000000004,
+    "trackingRange": 32,
+    "health": 60,
+    "xpAmount": 10,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": true,
+    "immuneToCactus": true,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "CUSTOM:Moongem"
+    },
+    "livingSound": {
+      "value": "entity.husk.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.husk.hurt"
+    },
+    "deathSound": {
+      "value": "entity.husk.death"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasAI": true,
+    "aiBase": "Zombie",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"wander\"><field name=\"speed\">0.9</field><next><block type=\"look_around\"><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">TRUE</field><field name=\"entity\">EntityPlayer</field><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field><next><block type=\"follow_entity\"><field name=\"speed\">1.1</field><field name=\"maxrange\">25</field><field name=\"followarea\">10</field><next><block type=\"watch_closest_entity\"><field name=\"radius\">16</field><field name=\"entity\">EntityPlayer</field><next><block type=\"doors_break\"/></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 25,
+    "mobSpawningType": "creature",
+    "minNumberOfMobsPerGroup": 5,
+    "maxNumberOfMobsPerGroup": 25,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Moonbiome"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

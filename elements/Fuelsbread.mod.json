@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ranliaomianbao",
+    "customModelName": "Normal",
+    "name": "È¼ÁÏÃæ°ü",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 9,
+    "saturation": 0.3,
+    "eatingSpeed": 40,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "FuelsbreadFoodEaten"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "CUSTOM:Gensokyogem"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "CUSTOM:Ranliaotaozhuang.body"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.ICE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Icewings.body"
+    },
+    "name": "icewings1",
+    "namespace": "mod"
+  }
+}

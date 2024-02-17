@@ -1,0 +1,10 @@
+{
+  "_fv": 6,
+  "_type": "fuel",
+  "definition": {
+    "power": 576000,
+    "block": {
+      "value": "Items.GOLDEN_APPLE#1"
+    }
+  }
+}

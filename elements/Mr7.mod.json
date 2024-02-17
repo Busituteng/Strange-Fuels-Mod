@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "malaxyrote7",
+    "customModelName": "Normal",
+    "name": "森近霖之助改造的手机",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "乡长制造，值得信赖！"
+    ],
+    "hasGlow": true,
+    "onRightClickedOnBlock": {
+      "name": "Mr7RightClickedOnBlock"
+    }
+  }
+}

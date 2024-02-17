@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.5,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Ranliaohexinkuangshi"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Ranliaohexin"
+    },
+    "name": "ranliaohexinkuangshi1",
+    "namespace": "mod"
+  }
+}

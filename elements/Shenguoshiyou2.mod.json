@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gasolinebottle"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gasolinebottle"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:Gasolinebottle"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gasolinebottle"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Shenguoshiyou"
+    },
+    "name": "shenguoshiyou2",
+    "namespace": "mod"
+  }
+}

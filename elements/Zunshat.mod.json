@@ -1,0 +1,57 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "zunshat",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "ZunshatHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "armorTextureFile": "zunshat_",
+    "helmetName": "ZUNñ",
+    "bodyName": "Zunshat Body",
+    "leggingsName": "Zunshat Leggings",
+    "bootsName": "Zunshat Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 35,
+    "damageValueHelmet": 11,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 14,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "entity.armorstand.place"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ]
+  }
+}

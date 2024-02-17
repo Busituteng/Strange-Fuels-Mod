@@ -1,0 +1,30 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "3": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "4": {
+      "item": "strangefuelsmod:occultpearl"
+    },
+    "5": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "7": {
+      "item": "strangefuelsmod:powerstone"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:gensokyo",
+    "count": 1
+  }
+}

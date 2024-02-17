@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/chisewuzhi",
+    "up": "strangefuelsmod:blocks/chisewuzhi",
+    "north": "strangefuelsmod:blocks/chisewuzhi",
+    "east": "strangefuelsmod:blocks/chisewuzhi",
+    "south": "strangefuelsmod:blocks/chisewuzhi",
+    "west": "strangefuelsmod:blocks/chisewuzhi",
+    "particle": "strangefuelsmod:blocks/chisewuzhi"
+  }
+}

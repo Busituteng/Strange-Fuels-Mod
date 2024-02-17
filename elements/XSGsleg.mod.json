@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "leg",
+    "customModelName": "Normal",
+    "name": "米斯蒂娅·萝蕾拉的腿",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 9,
+    "saturation": 0.4,
+    "eatingSpeed": 30,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

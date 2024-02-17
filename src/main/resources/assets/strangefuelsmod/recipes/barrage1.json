@@ -1,0 +1,16 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:barragecore"
+    },
+    {
+      "item": "strangefuelsmod:barragecore"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:barrage",
+    "count": 8
+  }
+}

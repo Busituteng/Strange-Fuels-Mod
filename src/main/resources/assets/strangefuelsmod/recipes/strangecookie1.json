@@ -1,0 +1,16 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:starfuel"
+    },
+    {
+      "item": "minecraft:cookie"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:strangecookie",
+    "count": 1
+  }
+}

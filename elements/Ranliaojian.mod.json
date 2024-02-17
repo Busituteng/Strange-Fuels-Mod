@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ranliao_sword",
+    "customModelName": "Normal",
+    "name": "»º¡œΩ£",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.8,
+    "enchantability": 5,
+    "damageVsEntity": 14.0,
+    "usageCount": 1800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ranliaobaoshi"
+      },
+      {
+        "value": "CUSTOM:Ranliaohexin"
+      }
+    ]
+  }
+}

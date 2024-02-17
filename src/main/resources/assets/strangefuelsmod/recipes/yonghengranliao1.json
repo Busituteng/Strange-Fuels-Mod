@@ -1,0 +1,22 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:mobiwusiranliao"
+    },
+    {
+      "item": "strangefuelsmod:mobiwusiranliao"
+    },
+    {
+      "item": "strangefuelsmod:mobiwusiranliao"
+    },
+    {
+      "item": "strangefuelsmod:mobiwusiranliao"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:yonghengranliao",
+    "count": 1
+  }
+}

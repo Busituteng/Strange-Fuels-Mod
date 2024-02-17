@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "ÑýÃÎµÄ·ßÅ­",
+    "effectName": "ÑýÃÎµÄ·ßÅ­",
+    "icon": "youmusangry.png",
+    "color": {
+      "value": -16724839,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "Items.MILK_BUCKET"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onExpired": {
+      "name": "YoumusangryPotionExpires"
+    }
+  }
+}

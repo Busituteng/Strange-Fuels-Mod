@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bf",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "ReimusbfHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "armorTextureFile": "reimubf_",
+    "helmetName": "²©ÀöÁéÃÎµÄºûµû½á",
+    "bodyName": "",
+    "leggingsName": "",
+    "bootsName": "",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 32,
+    "damageValueHelmet": 10,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 16,
+    "toughness": 2.4,
+    "equipSound": {
+      "value": "entity.armorstand.hit"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Fabric"
+      }
+    ]
+  }
+}

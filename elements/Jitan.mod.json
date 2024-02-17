@@ -1,0 +1,90 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Gensokyo"
+          },
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 268,
+          "y": 134
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Gensokyo"
+          },
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 356,
+          "y": 134
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Gensokyo"
+          },
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 550,
+          "y": 134
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Gensokyo"
+          },
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 462,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Enter Gensokyo",
+          "onClick": {
+            "name": "Gensokyochuansong"
+          },
+          "width": 280,
+          "height": 40,
+          "name": "Enter Gensokyo",
+          "x": 287,
+          "y": 179
+        }
+      }
+    ]
+  }
+}

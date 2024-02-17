@@ -1,0 +1,13 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:buckethelmethelmet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}

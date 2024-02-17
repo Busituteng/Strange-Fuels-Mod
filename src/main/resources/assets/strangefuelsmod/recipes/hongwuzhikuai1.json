@@ -1,0 +1,22 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:hongwuzhi"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhi"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhi"
+    },
+    {
+      "item": "strangefuelsmod:hongwuzhi"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:hongwuzhikuai",
+    "count": 1
+  }
+}

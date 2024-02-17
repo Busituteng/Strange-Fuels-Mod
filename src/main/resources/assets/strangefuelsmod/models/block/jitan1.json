@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/huangdanzhidiportal",
+    "up": "strangefuelsmod:blocks/jitantop",
+    "north": "strangefuelsmod:blocks/powerstoneblock",
+    "east": "strangefuelsmod:blocks/powerstoneblock",
+    "south": "strangefuelsmod:blocks/powerstoneblock",
+    "west": "strangefuelsmod:blocks/powerstoneblock",
+    "particle": "strangefuelsmod:blocks/huangdanzhidiportal"
+  }
+}

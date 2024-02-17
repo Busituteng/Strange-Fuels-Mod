@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Mobiwusiranliao"
+      },
+      {
+        "value": "CUSTOM:Mobiwusiranliao"
+      },
+      {
+        "value": "CUSTOM:Mobiwusiranliao"
+      },
+      {
+        "value": "CUSTOM:Mobiwusiranliao"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Yonghengranliao"
+    },
+    "name": "yonghengranliao1",
+    "namespace": "mod"
+  }
+}

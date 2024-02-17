@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "murakumo",
+    "customModelName": "Normal",
+    "name": "Ä§µ¶¡¤Ìì´ÔÔÆMurakumo",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 32,
+    "efficiency": 32.0,
+    "attackSpeed": 3.2,
+    "enchantability": 32,
+    "damageVsEntity": 180.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Moongemblock"
+      }
+    ]
+  }
+}

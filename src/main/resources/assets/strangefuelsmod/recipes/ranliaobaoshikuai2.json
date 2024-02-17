@@ -1,0 +1,13 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:ranliaobaoshikuai"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:ranliaobaoshi",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:ranliaoweidu"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:ranliaotangguo",
+    "count": 16
+  }
+}

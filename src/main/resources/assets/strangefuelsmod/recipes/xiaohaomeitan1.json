@@ -1,0 +1,14 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:xiaohaomeitan",
+    "count": 8
+  }
+}

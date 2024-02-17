@@ -1,0 +1,25 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:meifen"
+    },
+    {
+      "item": "strangefuelsmod:meifen"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:meifen"
+    },
+    {
+      "item": "strangefuelsmod:meifen"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:ranliaoweidu",
+    "count": 1
+  }
+}

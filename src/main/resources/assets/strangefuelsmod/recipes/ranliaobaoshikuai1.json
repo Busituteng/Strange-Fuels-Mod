@@ -1,0 +1,37 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:ranliaobaoshikuai",
+    "count": 1
+  }
+}

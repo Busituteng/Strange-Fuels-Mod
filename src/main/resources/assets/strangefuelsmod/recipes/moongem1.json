@@ -1,0 +1,36 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:rubyarmorhelmet"
+    },
+    "2": {
+      "item": "strangefuelsmod:rubyarmorlegs"
+    },
+    "3": {
+      "item": "strangefuelsmod:rubyarmorbody"
+    },
+    "4": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "5": {
+      "item": "strangefuelsmod:rubyarmorboots"
+    },
+    "6": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "8": {
+      "item": "strangefuelsmod:gensokyogem"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:moongem",
+    "count": 3
+  }
+}

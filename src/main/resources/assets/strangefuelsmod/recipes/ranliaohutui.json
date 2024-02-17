@@ -1,0 +1,36 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "1": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "2": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "3": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "5": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "6": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "8": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:ranliaotaozhuanglegs",
+    "count": 1
+  }
+}

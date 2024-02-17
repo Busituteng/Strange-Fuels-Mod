@@ -1,0 +1,22 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:fua"
+    },
+    {
+      "item": "strangefuelsmod:fua"
+    },
+    {
+      "item": "strangefuelsmod:fua"
+    },
+    {
+      "item": "strangefuelsmod:fua"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:fub",
+    "count": 1
+  }
+}

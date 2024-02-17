@@ -1,0 +1,57 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "aburdhead",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "AbsurdheadBodyTickEvent"
+    },
+    "onBodyTick": {
+      "name": "AbsurdheadBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "armorTextureFile": "head_",
+    "helmetName": "»Äµ®Í·Â­",
+    "bodyName": "",
+    "leggingsName": "",
+    "bootsName": "",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 35,
+    "damageValueHelmet": 18,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 14,
+    "toughness": 2.8000000000000003,
+    "equipSound": {
+      "value": "entity.irongolem.hurt"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Powerstone"
+      }
+    ]
+  }
+}

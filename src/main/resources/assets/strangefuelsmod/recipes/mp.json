@@ -1,0 +1,16 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:jiu"
+    },
+    {
+      "item": "strangefuelsmod:omnipotentfruit"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:medicinepowder",
+    "count": 1
+  }
+}

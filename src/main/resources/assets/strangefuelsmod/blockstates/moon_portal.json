@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "strangefuelsmod:moon_portal_ew"
+    },
+    "axis=x": {
+      "model": "strangefuelsmod:moon_portal_ns"
+    },
+    "inventory": {
+      "model": "strangefuelsmod:moon_portal_ns"
+    }
+  }
+}

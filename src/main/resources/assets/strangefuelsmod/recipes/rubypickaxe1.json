@@ -1,0 +1,30 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "1": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "2": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "4": {
+      "item": "strangefuelsmod:ranliaogao"
+    },
+    "7": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:rubypickaxe",
+    "count": 1
+  }
+}

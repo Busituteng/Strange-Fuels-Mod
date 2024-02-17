@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rubyarmor.helmet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rubyarmor.legs"
+      },
+      {
+        "value": "CUSTOM:Rubyarmor.body"
+      },
+      {
+        "value": "CUSTOM:Gensokyogem"
+      },
+      {
+        "value": "CUSTOM:Rubyarmor.boots"
+      },
+      {
+        "value": "CUSTOM:Gensokyogem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gensokyogem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Moongem"
+    },
+    "name": "moongem1",
+    "namespace": "mod"
+  }
+}

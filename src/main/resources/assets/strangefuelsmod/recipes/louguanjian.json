@@ -1,0 +1,24 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "4": {
+      "item": "strangefuelsmod:gensokyogem"
+    },
+    "6": {
+      "item": "strangefuelsmod:hakurouken"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:roukanken",
+    "count": 1
+  }
+}

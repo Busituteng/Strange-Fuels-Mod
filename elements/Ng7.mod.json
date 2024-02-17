@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "nalaxygote7",
+    "customModelName": "Normal",
+    "name": "Nalaxy Gote 7",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "奇怪的事物，本来不应该出现在幻想乡的..."
+    ],
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "Ng7RightClickedOnBlock"
+    }
+  }
+}

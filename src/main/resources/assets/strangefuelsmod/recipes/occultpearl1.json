@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "1": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "2": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "3": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "4": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "5": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "6": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "7": {
+      "item": "strangefuelsmod:powerstone"
+    },
+    "8": {
+      "item": "strangefuelsmod:ruby"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:occultpearl",
+    "count": 1
+  }
+}

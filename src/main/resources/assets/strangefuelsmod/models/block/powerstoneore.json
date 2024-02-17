@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/powerstoneore",
+    "up": "strangefuelsmod:blocks/powerstoneore",
+    "north": "strangefuelsmod:blocks/powerstoneore",
+    "east": "strangefuelsmod:blocks/powerstoneore",
+    "south": "strangefuelsmod:blocks/powerstoneore",
+    "west": "strangefuelsmod:blocks/powerstoneore",
+    "particle": "strangefuelsmod:blocks/powerstoneore"
+  }
+}

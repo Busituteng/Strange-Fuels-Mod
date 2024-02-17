@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "omnipotentplant",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "ÕÚƒ‹÷≤ŒÔ",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "hardness": 0.6,
+    "resistance": 0.0,
+    "luminance": 0.15000000000000002,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "CUSTOM:Omnipotentfruit"
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 5,
+    "fireSpreadSpeed": 5,
+    "frequencyOnChunks": 3,
+    "spawnWorldTypes": [
+      "CUSTOM:Huangdanzhidiweidu",
+      "CUSTOM:Gensokyo",
+      "End"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Huangdanzhidiqunxi"
+      },
+      {
+        "value": "CUSTOM:Gensokyoforest"
+      },
+      {
+        "value": "the_end"
+      }
+    ]
+  }
+}

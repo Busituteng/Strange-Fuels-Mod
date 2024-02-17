@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doge_sword",
+    "customModelName": "Normal",
+    "name": "DOGE½£",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 7.5,
+    "attackSpeed": 4.0,
+    "enchantability": 5,
+    "damageVsEntity": 25.0,
+    "usageCount": 114514,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Doge"
+      },
+      {
+        "value": "CUSTOM:Ranliaojian"
+      }
+    ]
+  }
+}

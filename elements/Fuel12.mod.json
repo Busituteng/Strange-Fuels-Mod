@@ -1,0 +1,10 @@
+{
+  "_fv": 6,
+  "_type": "fuel",
+  "definition": {
+    "power": 3600,
+    "block": {
+      "value": "Blocks.SLIME_BLOCK"
+    }
+  }
+}

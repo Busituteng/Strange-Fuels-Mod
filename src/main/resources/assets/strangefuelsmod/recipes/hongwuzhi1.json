@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:yonghengranliao"
+    },
+    "1": {
+      "item": "strangefuelsmod:yonghengranliao"
+    },
+    "2": {
+      "item": "strangefuelsmod:yonghengranliao"
+    },
+    "3": {
+      "item": "strangefuelsmod:anwuzhi"
+    },
+    "4": {
+      "item": "strangefuelsmod:anwuzhi"
+    },
+    "5": {
+      "item": "strangefuelsmod:anwuzhi"
+    },
+    "6": {
+      "item": "strangefuelsmod:yonghengranliao"
+    },
+    "7": {
+      "item": "strangefuelsmod:yonghengranliao"
+    },
+    "8": {
+      "item": "strangefuelsmod:yonghengranliao"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:hongwuzhi",
+    "count": 1
+  }
+}

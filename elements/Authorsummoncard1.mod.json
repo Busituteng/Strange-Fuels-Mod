@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Moongem"
+      },
+      {
+        "value": "CUSTOM:Starfuel"
+      },
+      {
+        "value": "CUSTOM:Moongem"
+      },
+      {
+        "value": "CUSTOM:Moongem"
+      },
+      {
+        "value": "CUSTOM:TEBSTT"
+      },
+      {
+        "value": "CUSTOM:Moongem"
+      },
+      {
+        "value": "CUSTOM:Moongem"
+      },
+      {
+        "value": "CUSTOM:Starfuel"
+      },
+      {
+        "value": "CUSTOM:Moongem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Authorsummoncard"
+    },
+    "name": "authorsummoncard1",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Iceforest",
+    "groundBlock": {
+      "value": "Blocks.SNOW"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.ICE"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 8,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.ICE"
+    },
+    "treeBranch": {
+      "value": "Blocks.SNOW"
+    },
+    "treeFruits": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -16724737,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3342337,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16763956,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 5,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.19999999999999998,
+    "temperature": 0.1,
+    "baseHeight": 0.2,
+    "heightVariation": 0.25,
+    "spawnBiome": false,
+    "biomeWeight": 30,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "COLD"
+    ],
+    "spawnList": [
+      {
+        "value": "CUSTOM:Cirno"
+      },
+      {
+        "value": "EntityPolarBear"
+      }
+    ]
+  }
+}

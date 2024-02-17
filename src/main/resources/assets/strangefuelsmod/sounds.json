@@ -1,0 +1,20 @@
+{
+  "huangdan": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "strangefuelsmod:baozhen",
+        "stream": false
+      }
+    ]
+  },
+  "reimu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "strangefuelsmod:ambient",
+        "stream": false
+      }
+    ]
+  }
+}

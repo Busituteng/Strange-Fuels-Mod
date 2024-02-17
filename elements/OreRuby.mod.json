@@ -1,0 +1,16 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Rubyore"
+      }
+    ],
+    "functions": [],
+    "name": "oreRuby",
+    "namespace": "forge"
+  }
+}

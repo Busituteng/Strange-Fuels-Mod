@@ -1,0 +1,22 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:moongem"
+    },
+    {
+      "item": "strangefuelsmod:moongem"
+    },
+    {
+      "item": "strangefuelsmod:moongem"
+    },
+    {
+      "item": "strangefuelsmod:moongem"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:moongemblock",
+    "count": 1
+  }
+}

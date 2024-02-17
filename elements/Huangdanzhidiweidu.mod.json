@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Rubyblock"
+    },
+    "portalParticles": {
+      "value": "TOTEM"
+    },
+    "portalLuminance": 0.75,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "荒诞之地维度打火石",
+    "igniterTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "texture": "huangdanzhididahuoshi",
+    "portalTexture": "huangdanzhidiportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Huangdanzhidiqunxi"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.EMERALD_ORE"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.REDSTONE_BLOCK"
+    },
+    "airColor": {
+      "value": -256,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": "CUSTOM:huangdan"
+    }
+  }
+}

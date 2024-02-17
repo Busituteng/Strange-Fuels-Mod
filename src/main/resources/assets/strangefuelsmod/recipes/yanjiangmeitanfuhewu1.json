@@ -1,0 +1,50 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "7": {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:coal",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:yanjiangmeitanhunhewu",
+    "count": 1
+  }
+}

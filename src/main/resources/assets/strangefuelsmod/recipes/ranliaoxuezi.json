@@ -1,0 +1,26 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "2": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "3": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    },
+    "5": {
+      "item": "strangefuelsmod:ranliaobaoshi"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:ranliaotaozhuangboots",
+    "count": 1
+  }
+}

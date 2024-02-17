@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "1": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "2": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "3": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "4": {
+      "item": "strangefuelsmod:ranliaohexin"
+    },
+    "5": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "6": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "7": {
+      "item": "strangefuelsmod:meifen"
+    },
+    "8": {
+      "item": "strangefuelsmod:meifen"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:ranliaobaoshi",
+    "count": 1
+  }
+}

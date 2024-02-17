@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "yvbi",
+    "customModelName": "Normal",
+    "name": "Óù±Ò",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 8.5,
+    "attackSpeed": 2.0,
+    "enchantability": 9,
+    "damageVsEntity": 22.0,
+    "usageCount": 256,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.STICK"
+      }
+    ]
+  }
+}

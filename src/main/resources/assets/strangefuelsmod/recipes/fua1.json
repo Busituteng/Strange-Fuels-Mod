@@ -1,0 +1,42 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "1": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "2": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "3": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "6": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "7": {
+      "item": "strangefuelsmod:barrage"
+    },
+    "8": {
+      "item": "strangefuelsmod:barrage"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:fua",
+    "count": 1
+  }
+}

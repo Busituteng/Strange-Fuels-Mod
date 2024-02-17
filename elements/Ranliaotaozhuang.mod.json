@@ -1,0 +1,57 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ranliao_helmet",
+    "enableBody": true,
+    "textureBody": "ranliao_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "ranliao_leggings",
+    "enableBoots": true,
+    "textureBoots": "ranliao_boots",
+    "onBodyTick": {
+      "name": "RanliaotaozhuangBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "armorTextureFile": "taozhuang_",
+    "helmetName": "燃料头盔",
+    "bodyName": "燃料胸甲",
+    "leggingsName": "燃料护腿",
+    "bootsName": "燃料靴子",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 64,
+    "damageValueHelmet": 16,
+    "damageValueBody": 16,
+    "damageValueLeggings": 16,
+    "damageValueBoots": 16,
+    "enchantability": 16,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "entity.armorstand.break"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ranliaobaoshi"
+      },
+      {
+        "value": "CUSTOM:Ranliaohexin"
+      }
+    ]
+  }
+}

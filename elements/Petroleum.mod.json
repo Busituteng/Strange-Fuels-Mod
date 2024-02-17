@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "Petroleum",
+    "textureStill": "petroleum",
+    "textureFlowing": "petroleum_1",
+    "luminosity": 0,
+    "density": 880,
+    "viscosity": 1600,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "spawnWorldTypes": [
+      "End"
+    ]
+  }
+}

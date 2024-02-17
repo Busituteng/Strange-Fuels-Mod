@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "roukanken",
+    "customModelName": "Normal",
+    "name": "Â¥¹Û½£",
+    "creativeTab": {
+      "value": "CUSTOM:StrangeFuelsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 20,
+    "efficiency": 10.0,
+    "attackSpeed": 2.0,
+    "enchantability": 10,
+    "damageVsEntity": 39.0,
+    "usageCount": 16000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      },
+      {
+        "value": "CUSTOM:Gensokyogem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_fv": 6,
+  "_type": "fuel",
+  "definition": {
+    "power": 64000,
+    "block": {
+      "value": "Items.DIAMOND_HELMET"
+    }
+  }
+}

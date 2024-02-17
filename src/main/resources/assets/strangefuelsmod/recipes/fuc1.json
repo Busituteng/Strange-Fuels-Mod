@@ -1,0 +1,30 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "strangefuelsmod:rainbowbarrage"
+    },
+    "3": {
+      "item": "strangefuelsmod:rainbowbarrage"
+    },
+    "4": {
+      "item": "strangefuelsmod:fua"
+    },
+    "5": {
+      "item": "strangefuelsmod:rainbowbarrage"
+    },
+    "7": {
+      "item": "strangefuelsmod:rainbowbarrage"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:fuc",
+    "count": 1
+  }
+}

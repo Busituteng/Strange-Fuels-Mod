@@ -1,0 +1,22 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangefuelsmod:yasuogaojimeitan"
+    },
+    {
+      "item": "strangefuelsmod:yasuogaojimeitan"
+    },
+    {
+      "item": "strangefuelsmod:yasuogaojimeitan"
+    },
+    {
+      "item": "strangefuelsmod:yasuogaojimeitan"
+    }
+  ],
+  "result": {
+    "item": "strangefuelsmod:erchongyasuogaojimeitan",
+    "count": 1
+  }
+}

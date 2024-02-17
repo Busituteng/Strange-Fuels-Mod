@@ -1,0 +1,43 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:occultpearl"
+    },
+    "1": {
+      "item": "strangefuelsmod:powerstoneblock"
+    },
+    "2": {
+      "item": "strangefuelsmod:occultpearl"
+    },
+    "3": {
+      "item": "strangefuelsmod:fuc"
+    },
+    "4": {
+      "item": "minecraft:golden_apple",
+      "data": 1
+    },
+    "5": {
+      "item": "strangefuelsmod:fuc"
+    },
+    "6": {
+      "item": "strangefuelsmod:occultpearl"
+    },
+    "7": {
+      "item": "strangefuelsmod:powerstoneblock"
+    },
+    "8": {
+      "item": "strangefuelsmod:occultpearl"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:fud",
+    "count": 1
+  }
+}

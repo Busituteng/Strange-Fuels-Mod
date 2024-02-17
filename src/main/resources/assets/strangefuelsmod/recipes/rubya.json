@@ -1,0 +1,32 @@
+{
+  "group": "strangefuelsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "1": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "2": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "3": {
+      "item": "strangefuelsmod:ruby"
+    },
+    "4": {
+      "item": "strangefuelsmod:ranliaotaozhuanghelmet"
+    },
+    "5": {
+      "item": "strangefuelsmod:ruby"
+    }
+  },
+  "result": {
+    "item": "strangefuelsmod:rubyarmorhelmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Yanjiangmeitanhunhewu"
+    },
+    "name": "yanjiangmeitanfuhewu1",
+    "namespace": "mod"
+  }
+}

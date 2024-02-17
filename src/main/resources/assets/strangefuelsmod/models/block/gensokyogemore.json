@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/gensokyogemore",
+    "up": "strangefuelsmod:blocks/gensokyogemore",
+    "north": "strangefuelsmod:blocks/gensokyogemore",
+    "east": "strangefuelsmod:blocks/gensokyogemore",
+    "south": "strangefuelsmod:blocks/gensokyogemore",
+    "west": "strangefuelsmod:blocks/gensokyogemore",
+    "particle": "strangefuelsmod:blocks/gensokyogemore"
+  }
+}

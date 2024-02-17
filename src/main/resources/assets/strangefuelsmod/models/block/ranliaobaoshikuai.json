@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangefuelsmod:blocks/fuelsgemblock",
+    "up": "strangefuelsmod:blocks/fuelsgemblock",
+    "north": "strangefuelsmod:blocks/fuelsgemblock",
+    "east": "strangefuelsmod:blocks/fuelsgemblock",
+    "south": "strangefuelsmod:blocks/fuelsgemblock",
+    "west": "strangefuelsmod:blocks/fuelsgemblock",
+    "particle": "strangefuelsmod:blocks/fuelsgemblock"
+  }
+}
